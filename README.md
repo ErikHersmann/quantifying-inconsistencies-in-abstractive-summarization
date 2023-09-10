@@ -6,4 +6,4 @@ My bachelors thesis materials
   - (16/16) spearman correlation coeffcient for the two newly proposed metrics on all models of summeval
 
 
-the zip folder contains the latex files, unfortunately the thesis itself is written in german (
+the zip folder contains the latex files, unfortunately the thesis itself is written in german 
