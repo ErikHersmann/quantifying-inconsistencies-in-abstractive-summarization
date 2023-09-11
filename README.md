@@ -1,4 +1,4 @@
-# quantifying-inconsistencies-in-abstractive-summarization
+# quantifying inconsistencies in automatic abstractive summarization
 My bachelors thesis' materials
 
 2 .ipynb files that compare 
