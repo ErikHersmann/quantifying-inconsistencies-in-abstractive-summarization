@@ -7,5 +7,5 @@ My bachelors thesis' materials
 
 
 the zip folder contains the latex files \
-the [thesis.pdf](thesis.pdf) file is the final compiled version of the latex project \
+the [thesis](thesis.pdf) file is the final compiled version of the latex project \
 unfortunately the thesis itself is written in german 
