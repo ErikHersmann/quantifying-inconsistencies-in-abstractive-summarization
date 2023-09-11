@@ -6,4 +6,6 @@ My bachelors thesis' materials
   - [(16/16)](summeval(16_16).ipynb) spearman correlation coeffcient for the two newly proposed metrics on all models of summeval
 
 
-the zip folder contains the latex files, unfortunately the thesis itself is written in german 
+the zip folder contains the latex files
+the thesis.pdf file is the final compiled version of the latex project
+unfortunately the thesis itself is written in german 
